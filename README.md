@@ -6,33 +6,39 @@
 Java
 ```
   
-#### Niche: 
+#### Niche
 
 ```
 Algorithm
 ```
   
-#### Type: 
+#### Type
 
 ```
 Sorting
 ```
   
-#### Sub-type:
+#### Sub-type
 
 ```
 Bubble Sort
 ```
 
-#### Tool: 
+#### Tool 
 
 ```
 Eclipse
 ```
   
-#### Author:
+#### Author
 
 ```
 fullarray
+```
+
+#### Created On
+
+```
+06122022
 ```
 
