@@ -1,20 +1,20 @@
 # Java Algorithm Sorting Bubblesort Eclipse
 
 #### Language
-  Java
+```Java```
   
 #### Niche: 
-  Algorithm
+```Algorithm```
   
 #### Type: 
-  Sorting
+```Sorting```
   
 #### sub-type:
-  Bubble Sort
+```Bubble Sort```
 
 #### Tool: 
-  Eclipse
+```Eclipse```
   
 #### Author:
-  fullarray
+```fullarray```
 
