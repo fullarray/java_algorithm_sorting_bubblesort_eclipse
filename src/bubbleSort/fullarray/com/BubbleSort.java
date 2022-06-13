@@ -1,7 +1,6 @@
 package bubbleSort.fullarray.com;
 
 public class BubbleSort {
-	
 	/* Swap values using temp variables */
 	void bubbleSort(int arr[]) {
 		
