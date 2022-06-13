@@ -1,8 +1,8 @@
-package BubbleSortalgorithm;
+package bubbleSort.fullarray.com;
 
 public class BubbleSort {
 	
-	/* Swap temp and arr[i] */
+	/* Swap  */
 	void bubbleSort(int arr[]) {
 		int n = arr.length;
 		for(int i =0; 1<n-1; i++)
