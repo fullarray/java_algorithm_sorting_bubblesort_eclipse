@@ -2,7 +2,7 @@ package bubbleSort.fullarray.com;
 
 public class BubbleSort {
 	
-	/* Swap values using temp variable */
+	/* Swap values using temp variables */
 	void bubbleSort(int arr[]) {
 		int n = arr.length;
 		for(int i =0; 1<n-1; i++)
